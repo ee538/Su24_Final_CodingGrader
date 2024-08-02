@@ -50,6 +50,8 @@ Output:
 1 3 1 2
 2 1 3 1
 3 1 2 1
+1 2 3 1
+1 3 2 1
 Explanation:
 There are enough students from different countries to intersperse students from
 the same country (1). Each valid arrangement ensures that no two '1's are
